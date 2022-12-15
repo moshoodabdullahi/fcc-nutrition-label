@@ -10,7 +10,7 @@ Additional description about the project and its features.
 
 - HTML5 elements
   - `h1`,
-  - `span`, `p`, 
+  - `span`, `p`,
   - `header`, `div`,.
 - CSS properties
   - CSS Variables for reusable CSS values,
