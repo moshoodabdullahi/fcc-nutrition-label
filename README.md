@@ -16,7 +16,6 @@ Additional description about the project and its features.
   - CSS Variables for reusable CSS values,
   - CSS Positioning `center`,
   - CSS Background for page aesthetic using `background-color`.
-  - `header`, `p`, `h1`.
 - Linters
   - [Prettier](https://prettier.io/),
   - [Stylelint](https://stylelint.io/).
